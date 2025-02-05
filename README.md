@@ -1,6 +1,6 @@
 # Git Practice
 
-# Interesting Software Development Article 
+## Interesting Software Development Article 
 [What is software development?](https://money.usnews.com/careers/best-jobs/software-developer)
 
 ## Why I Found It Interesting
